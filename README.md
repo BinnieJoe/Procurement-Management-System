@@ -4,7 +4,7 @@ This program was implemented as part of a short-term course at Woosong BIT, focu
 ## Skills
 - **Programming Language**: C++
 - **Development Environment**: Visual Studio, Windows
-- **Object-Oriented Programming Design and Implementation**
+- Object-Oriented Programming Design and Implementation
 
 ## Description
 ![1](https://github.com/user-attachments/assets/f1ef0eb0-143e-4133-972f-4829c4cd92b4)
